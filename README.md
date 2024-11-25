@@ -1,1 +1,2 @@
-# data-sourcing-challenge1
+# data-sourcing-challenge
+This project processes data from NASA's DONKI API to analyze the relationship between Coronal Mass Ejections (CMEs) and Geomagnetic Storms (GSTs). It involves cleaning, transforming, and merging data to calculate the time difference between CME and GST events, producing a ready-to-use dataset for further analysis
